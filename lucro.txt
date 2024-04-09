@@ -1,0 +1,2 @@
+Vendas,0
+Lucro,0.0
